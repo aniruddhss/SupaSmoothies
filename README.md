@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Starter React Project for the Supabase Course
 
 **How to run the starter project:**
@@ -7,3 +8,7 @@
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+=======
+# SupaSmoothies
+A Supabase Smoothie recipe app
+>>>>>>> 4864aaf0b12248e797c8db719c23e70b861faa76
