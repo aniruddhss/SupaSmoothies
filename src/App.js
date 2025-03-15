@@ -11,8 +11,8 @@ function App() {
     <BrowserRouter>
       <nav>
         <h1>Supa Smoothies</h1>
-        <Link to="/">Home</Link>
-        <Link to="/create">Create New Smoothie</Link>
+        <Link to="/"><i className="material-icons">home</i></Link>
+        <Link to="/create"><i className="material-icons">add</i></Link>
       </nav>
       <Routes>
         <Route path="/" element={<Home />} />

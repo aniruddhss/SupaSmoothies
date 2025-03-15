@@ -65,7 +65,7 @@ nav h1 {
   text-align: right;
 }
 .smoothie-card i {
-  color: #bbb;
+  color:var(--secondary);
   margin-left: 10px;
   font-size: 1.2em;
   padding: 6px;
